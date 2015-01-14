@@ -1,0 +1,80 @@
+div#infos_machines_gauche{
+	width:320px;
+	float:left;
+	}
+
+div#infos_machines_droite{
+	float:left;width:320px;
+	}
+
+div#bouton_vm{
+	width:180px;border:1px solid gray;
+	}
+div#bouton_vm_clicker{
+	width:180px;border:1px solid gray;background-color:gray;
+	}
+div#ajout_vm{
+	margin-left:10px;
+	background-color:#eaeaea;
+	float:left;
+	width:30px;
+	border:solid 1px gray;
+	}
+div#nav_vms {
+        height:30px;
+        background-color:#eaeaea;
+        width:137px;
+        margin-left:10px;
+        margin-right:10px;
+        float:left;
+        }
+div#page {
+	margin-left: auto;
+	margin-right: auto;
+	width:850px;
+	overflow: hidden;
+	}
+div#barre {
+	color:white;
+        height:20px;
+	background-color:#203a6e;
+	}
+div#petite_barre {
+	background-color:#BDBDBD;
+	height:4px;
+	}
+
+div#bandeau {
+	width:850px;
+	height:100px;
+	background-color:white;
+	}
+div#menu {
+	float:left;
+	width:200px;
+
+	background-color:#BDBDBD;
+	margin-bottom:10px;
+	}
+
+div#machines_list {
+	width:180px;
+	height:276px;
+	margin:10px;
+	background-color:white;
+	}
+
+div#contenu {
+	float:left;
+	margin-left:10px;
+	width:640px;
+	height:390px;
+	background-color:#A4A4A4;
+	margin-bottom:10px;
+	}
+div#pied_page {
+	clear:both;
+	width:850px;
+	height:20px;
+	background-color:white;
+	}
